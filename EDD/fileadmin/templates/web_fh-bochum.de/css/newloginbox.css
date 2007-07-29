@@ -1,0 +1,35 @@
+.tx-newloginbox-pi1 fieldset {
+	padding: 0 15px 10px 15px;
+	border: 1px solid #cccccc;
+	margin-bottom: 20px;
+}
+
+.tx-newloginbox-pi1 .loginform { 
+	padding-top: 10px;
+}
+
+.tx-newloginbox-pi1 fieldset label {
+	padding: 4px 0 2px 0;
+	line-height: 1.6em;
+}
+
+.tx-newloginbox-pi1 .form-item {
+	margin-bottom: 5px;
+}
+
+
+.tx-newloginbox-pi1  INPUT.tx-newloginbox-pi1-submit { 	
+	margin-top: 10px;
+	width:100px;
+	border: 1px solid #cccccc;
+	background: #eeeeee;
+}
+
+
+.tx-newloginbox-pi1 #user:active, .tx-newloginbox-pi1 #user:focus,
+.tx-newloginbox-pi1 #pass:active, .tx-newloginbox-pi1 #pass:focus,
+.tx-newloginbox-pi1  INPUT.tx-newloginbox-pi1-submit:active,
+.tx-newloginbox-pi1  INPUT.tx-newloginbox-pi1-submit:focus  {
+	color: #FFFFFF;
+	background: #009DD5;
+}

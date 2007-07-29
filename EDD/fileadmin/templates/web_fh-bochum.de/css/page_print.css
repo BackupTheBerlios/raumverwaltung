@@ -1,0 +1,165 @@
+/*body {
+	font-size: 80% !important; 
+}
+
+#MainFrame {
+	width:100%;
+}
+
+#MainCenterCol {
+	width: 70%; 		
+}
+
+
+#MainRightCol {
+	width: 30%;	
+}
+
+#MainCenterFullCol {
+	width:100%;
+} */
+
+#OuterBanner {
+	display:none;
+	visibility:hidden;
+}
+
+#MetaNavTop {
+	display:none;
+	visibility:hidden;
+}
+
+#MetaNavTop #MetaContent {
+	display:none;
+	visibility:hidden;
+}
+
+#SearchBox {
+	display:none;
+	visibility:hidden;
+}
+
+#LangSelector {	
+	display:none;
+	visibility:hidden;
+}
+
+#Footer,
+#MainContentCols,
+#MainContentCols_NoRightCol {
+	padding-left: 0px;
+}
+
+
+#MainLeftCol {
+	display:none;
+	visibility:hidden;
+}
+
+#BreadCrumb {
+	position: relative;
+	top: 100px;
+	left:0px;
+	margin: 0 0 0 0px;
+	padding: 0px;	
+	background: url(/clear.gif) no-repeat;
+}
+
+#BreadCrumbOuter {
+	background: url(/clear.gif) no-repeat;
+	width: 100%;
+}
+
+#Header {
+	position: relative;
+	height: 120px;
+}
+
+.HeaderCols {
+	clear: both;
+	position: relative;
+}
+
+#Logo {	
+	width: 213px;
+	height: 85px;
+	padding:0;
+	float: left;
+	background: url(/clear.gif) no-repeat;
+}
+
+#Title {
+	position: absolute;
+	left: 63px;
+	top: 42px;
+	width: 300px;
+	height: 50px;
+	display: inline;	
+}
+
+
+#contentRight .csc-header {	
+	border-bottom: 1px solid gray;
+	background: url(/clear.gif) no-repeat;
+}
+
+
+h2.csc-firstHeader {
+	padding:0px; margin:0px;
+	background: url(/clear.gif) no-repeat;
+}
+
+.csc-header h2 {
+	padding:0px; margin:0px;	
+	background: url(/clear.gif) no-repeat;
+}
+
+#contentRight h2,
+#contentRight h3 {	
+	background: url(/clear.gif) no-repeat;
+	color:gray;
+	padding: 4px 3px 1px 0;
+	margin-bottom: 3px;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+#contentRight .bottomline {		
+	background: url(/clear.gif) no-repeat;
+	border-bottom:1px solid gray;
+}
+
+.noprint {
+	display:none;
+	visibility:hidden;
+}
+
+
+
+#content a, #contentRight a { 
+	color: black;
+	text-decoration: underline;
+
+}
+#content a:link, #contentRight a:link { 
+	color: black;	
+}
+
+#content a:visited, #contentRight a:visited{
+	color: black;	
+}
+#content a:hover, #contentRight a:hover {	
+	text-decoration: underline;
+}
+
+#content a:active, #content a:focus,  #contentRight a:active, #contentRight a:focus {
+	color: black;
+}
+
+#content, #contentRight {
+	overflow: visible;
+}
+
+#content div.csc-textpic-imagecolumn {
+	float: left;
+}

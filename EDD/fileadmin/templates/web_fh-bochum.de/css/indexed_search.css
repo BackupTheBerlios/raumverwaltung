@@ -1,0 +1,156 @@
+#content .tx-indexedsearch ul.browsebox {
+	margin-bottom: 10px;
+}
+
+.tx-indexedsearch .tx-indexedsearch-browsebox LI { 
+	display:inline; 
+	margin-right:5px;
+}
+
+.tx-indexedsearch .tx-indexedsearch-searchbox INPUT.tx-indexedsearch-searchbox-button { 
+	margin-left: 110px;
+	margin-top: 10px;
+	width:100px;
+	border: 1px solid #cccccc;
+	background: #eeeeee;	
+}
+
+.tx-indexedsearch .tx-indexedsearch-searchbox INPUT.tx-indexedsearch-searchbox-sword { 
+	width: 150px; 
+}
+
+INPUT.tx-indexedsearch-searchbox-sword:active, INPUT.tx-indexedsearch-searchbox-sword:focus {
+	color: #FFFFFF;
+	background: #009dd5;
+}
+
+.tx-indexedsearch select:active, .tx-indexedsearch select:focus,
+.tx-indexedsearch .tx-indexedsearch-searchbox INPUT.tx-indexedsearch-searchbox-button:active,
+.tx-indexedsearch .tx-indexedsearch-searchbox INPUT.tx-indexedsearch-searchbox-button:focus {
+	color: #FFFFFF;
+	background: #009DD5;
+}
+
+.tx-indexedsearch .tx-indexedsearch-whatis { 
+	margin-top:10px; 
+	margin-bottom:5px;
+}
+
+.tx-indexedsearch .tx-indexedsearch-whatis .tx-indexedsearch-sw { 
+	font-weight:bold; 
+	font-style:italic; 
+}
+
+.tx-indexedsearch .tx-indexedsearch-noresults { 
+	text-align:center; 
+	font-weight:bold; 
+}
+
+
+.tx-indexedsearch .tx-indexedsearch-res TD.tx-indexedsearch-descr { 
+	font-style:italic; 
+}
+
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-descr .tx-indexedsearch-redMarkup { 
+	color: #000; 
+}
+
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-info { 
+	background:#eeeeee;
+}
+
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-secHead { 
+	margin-top:20px; 
+	margin-bottom:5px; 
+}
+
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-secHead H2 { 
+	margin-top:0px; 
+	margin-bottom:0px; 
+}
+	
+.tx-indexedsearch .tx-indexedsearch-res .tx-indexedsearch-secHead TD { 
+	background:#cccccc; 
+	vertical-align:middle; 
+}
+
+.tx-indexedsearch .tx-indexedsearch-res .noResume { 
+	color:#666666;
+}
+
+.tx-indexedsearch .tx-indexedsearch-category { 
+	background:#cccccc; 
+	font-size:16px; 
+	font-weight:bold;
+}
+
+/* Additional styles, needed for the tableless template_css.tmpl (styles don't conflict with the original template) */
+.tx-indexedsearch .res-tmpl-css { 
+	clear:both;
+	margin-bottom:1em;
+}
+
+.tx-indexedsearch .searchbox-tmpl-css LABEL { 
+	margin-right:1em; 
+	width: 100px;
+	float:left; 
+}
+
+.tx-indexedsearch .result-count-tmpl-css, .tx-indexedsearch .percent-tmpl-css { 
+	letter-spacing: 0; 
+	font-weight: normal; 
+	margin-top:-1.2em; 
+	float:right; 
+}
+
+.tx-indexedsearch .info-tmpl-css dt, .tx-indexedsearch dl.info-tmpl-css dd { 
+	float:left; 
+}
+
+.tx-indexedsearch .info-tmpl-css dd.item-mtime { 
+	float:none; 
+}
+
+.tx-indexedsearch .info-tmpl-css dd.item-path { 
+	float:none; 
+}
+
+.tx-indexedsearch fieldset {
+	padding: 0 10px 10px 10px;
+	border: 1px solid #cccccc;
+	margin-bottom: 20px;
+}
+
+.tx-indexedsearch .tx-indexedsearch-form {
+	padding-top: 10px;
+}
+
+
+.tx-indexedsearch-search-select-order,
+.tx-indexedsearch-search-select-results,
+.tx-indexedsearch-search-select-group,
+.tx-indexedsearch-search-for {
+	margin-top: 6px;
+}
+
+.tx-indexedsearch-searchbox p {	
+}
+
+.tx-indexedsearch-searchbox p a {	
+	padding-left:15px;
+	background-image: url(../img/arrow-right.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+	
+}
+
+#content p.tx-indexedsearch-descr {
+	padding-bottom: 20px;
+}
+
+span.tx-indexedsearch-result-number,
+span.tx-indexedsearch-title {	
+	padding-bottom: 3px;
+	vertical-align: top;
+}
+

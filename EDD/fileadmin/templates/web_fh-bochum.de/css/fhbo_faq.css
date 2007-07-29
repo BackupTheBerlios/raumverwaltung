@@ -1,0 +1,59 @@
+.tx-fhbofaq-pi1 {
+		
+}
+.tx-fhbofaq-pi1 .letter-navi {
+padding: 4px 0 10px 0;
+background: url(../img/dot_solid_h.gif) bottom repeat-x;
+
+}
+.tx-fhbofaq-pi1 .letter-navi ul {	
+	
+}
+
+#content div.tx-fhbofaq-pi1 .related  ul li, #content div.tx-fhbofaq-pi1  ul.list li {
+	background:  url(../img/arrow-right.gif) left top no-repeat;
+}
+
+#content div.tx-fhbofaq-pi1 div.letter-navi ul li {
+	display: inline;
+	background: url(../img/dot_black.gif) right repeat-y;
+	padding: 0 5px 0 5px;	
+	
+}
+
+#content div.tx-fhbofaq-pi1 div.letter-navi ul li.last {
+	background: none;
+
+}
+.tx-fhbofaq-pi1 .headerLetter {
+	padding: 0 0 10px 0;	
+	background: url(../img/dot_solid_h.gif) bottom repeat-x;
+}
+
+#content .tx-fhbofaq-pi1 .headerLetter h2 {
+	font-size: 1.6em;
+	background: none;
+	padding: 0;
+}
+
+.tx-fhbofaq-pi1 .item {
+	padding: 0 0 10px 0;	
+	margin: 0 0 15px 0;
+	background: url(../img/dot_solid_h.gif) bottom repeat-x;
+}
+
+#content .tx-fhbofaq-pi1 .item .related ul { 
+	margin-left: 15px;
+}
+
+.tx-fhbofaq-pi1 strong.strong {
+	color:#505050;
+}
+
+#content .tx-fhbofaq-pi1 ul.list {
+	margin-top: 10px;
+}
+
+.tx-fhbofaq-pi1 ul.list li {
+	margin-bottom: 3px;
+}

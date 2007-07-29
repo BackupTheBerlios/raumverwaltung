@@ -1,0 +1,62 @@
+
+div.tx-strgbdynlinklist-pi1 div.error {
+	margin-top: 20px;
+}
+
+div.tx-strgbdynlinklist-pi1 form {
+	margin: 0;
+	padding: 0;
+}
+
+div.tx-strgbdynlinklist-pi1 fieldset {
+	margin: 0;
+	padding: 10px;
+	border: 1px solid #cccccc;
+}
+
+div.tx-strgbdynlinklist-pi1 legend {
+	font-weight: bold;
+}
+
+div.tx-strgbdynlinklist-pi1 select {
+	border: 1px solid #cccccc;
+	margin-top: 2px;
+	margin-bottom: 10px;
+}
+
+div.tx-strgbdynlinklist-pi1 select:focus, div.tx-strgbdynlinklist-pi1 input:focus {
+  	color: #FFFFFF;
+	background-color: #009DD5;
+}
+
+div.tx-strgbdynlinklist-pi1 input {
+	margin-top: 1.2em;
+	border: 1px solid #cccccc;
+	background: #eeeeee;	
+}
+
+
+
+div.tx-strgbdynlinklist-pi1 table {
+	margin-top: 20px;
+	border: 0;
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+div.tx-strgbdynlinklist-pi1 table tr.tr-even  {
+	background-color: #F9F9F9;
+}
+
+div.tx-strgbdynlinklist-pi1 table tr.tr-odd  {
+	background-color: #ECECEC;
+}
+
+div.tx-strgbdynlinklist-pi1 table tr th, div.tx-strgbdynlinklist-pi1 table tr td {
+	border: 0;
+	padding: 4px;
+	vertical-align: top;
+	background-image: url(../img/dot_solid_h.gif);
+	background-repeat: repeat-x; 
+ 	background-position: bottom left;
+}

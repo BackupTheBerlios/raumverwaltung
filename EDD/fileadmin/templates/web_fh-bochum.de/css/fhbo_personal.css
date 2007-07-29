@@ -1,0 +1,175 @@
+
+
+
+
+.fhbo-contact {
+	/*font-size: 1.1em;*/
+	line-height: 1.4em;
+	clear: both;
+	margin-bottom: 30px;	
+}
+
+.fhbo-contact li {
+	/*font-size: 0.9em;*/
+	line-height: 1.4em;
+}
+
+#content .fhbo-contact h4 {
+	color: #343434;
+	margin-top: 0px;
+	margin-bottom: 4px;
+	/*font-size: 1.0em;*/
+}
+
+#contentRight .fhbo-contact h4 {
+	margin-top: 8px;
+	margin-bottom: 2px;
+	/*font-size: 1.0em;*/
+}
+
+.fhbo-contact .categories {
+	margin-bottom: 5px;
+}
+
+#content .fhbo-contact .categories li {
+	/*padding-left: 0;
+	background-image: none;*/
+}
+
+.fhbo-contact .personal_page {
+	margin: 4px 0 0 0;
+}
+
+.fhbo-contact .email {
+	margin-top: 1px;
+}
+
+.fhbo-contact .personal_page a {
+	padding-left:15px;
+	background-image: url(../img/arrow-right.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+
+
+.fhbo-contact .homepage a {
+	padding-left:15px;
+	background-image: url(../img/arrow-right.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+
+.fhbo-contact .outer {	
+	margin: 3px 0 3px 0;
+}
+
+.fhbo-contact .innerTitle {
+	float: left;	
+}
+
+.fhbo-contact .innerContent {
+	padding: 0;
+	margin-left: 10em;
+	height: 1%;
+}
+
+.fhbo-contact .vcard_link {
+	margin-top: 5px;
+}
+
+.fhbo-contact .innerFieldContent {
+	padding: 0;
+	margin-left: 6.5em;
+	height: 1%;
+}
+
+
+
+.fhbo-contact .image {
+	float:right;
+	margin-bottom: 30px;
+	margin-left: 8px;
+	
+}
+
+#contentRight .fhbo-contact .image {
+	float:none;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+.fhbo-contact .imageleft {
+	float:left;
+	margin-left: 0px;
+	margin-right: 8px;
+}
+
+.tx-fhbopersonal-pi .lastelement {
+	margin-bottom: 5px;	
+}
+
+#contentRight .fhbo-contact .innerTitle {
+	float: none;
+}
+
+#contentRight .fhbo-contact .innerContent {
+	margin-left: 0;
+}
+
+#contentRight .fhbo-contact .outer {
+	margin-top: 6px;
+}
+
+div.tx-fhbopersonal-pi div.letter-navi {
+	margin-bottom: 20px;
+}
+
+#content div.tx-fhbopersonal-pi div.letter-navi ul li {
+	display: inline;
+	background: url(../img/dot_black.gif) right repeat-y;
+	padding: 0 5px 0 5px;	
+	
+}
+
+#content div.tx-fhbopersonal-pi div.letter-navi ul li.last {
+	background: none;
+
+}
+
+
+.tx-fhbopersonal-pi4 fieldset {
+	padding: 0 15px 10px 15px;
+	border: 1px solid #cccccc;
+	margin-bottom: 20px;
+}
+
+.tx-fhbopersonal-pi4 .tx-fhbopersonal-pi4-form { 
+	padding-top: 10px;
+}
+
+.tx-fhbopersonal-pi4 fieldset label {
+	padding: 4px 0 2px 0;
+	line-height: 1.6em;
+}
+
+.tx-fhbopersonal-pi4 .form-item {
+	margin-bottom: 5px;
+}
+
+.tx-fhbopersonal-pi4  INPUT.tx-fhbopersonal-pi4-submit { 	
+	margin-top: 10px;
+	width:100px;
+	border: 1px solid #cccccc;
+	background: #eeeeee;
+}
+
+.tx-fhbopersonal-pi4 select:active, .tx-fhbopersonal-pi4 select:focus,
+.tx-fhbopersonal-pi4 input:active, .tx-fhbopersonal-pi4 input:focus  {
+	color: #FFFFFF;
+	background-color: #009DD5;
+}
+
+.tx-fhbopersonal-pi4 .errorMsg {
+	margin: 10px 0 15px 0;
+	color: red;
+}

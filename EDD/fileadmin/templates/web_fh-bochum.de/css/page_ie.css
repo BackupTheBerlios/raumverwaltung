@@ -1,0 +1,92 @@
+body {
+
+}
+
+#MainFrame {
+	width: expression(document.body.clientWidth > 930 ? "930": "auto" );
+	height: 100%; 
+}
+
+#MainLeftCol {
+	margin-left: -115px;	
+}
+
+#headerBottom {
+	height: 1%;
+}
+
+#Logo, #LeftBanner, #RightBanner {
+	display: block;
+}
+
+#OuterBanner #MetaNavTop, #MetaNavTop #MetaBGDummy {
+	width: 17.3em;
+}
+
+p.shortcut a:active, 
+p.shortcut a:focus {
+	top: 1012px;
+}
+
+
+#dottedBorder {
+	height:3px;
+}
+
+
+#MetaNavFooter {
+	margin-top: 2px;
+}
+
+/*  FIX Botton Positionen  */
+.tx-fhbodirectaccessmenu-pi1 .button {
+		top: 0px;
+}
+
+.tx-fhbodirectaccessmenu-pi2 .button {
+		top: 0px;
+}
+
+
+/*  FIX  Rahmen paddings links */ 
+
+#MainCenterFullCol #content div.csc-frame-frame1, #MainCenterFullCol #content div.csc-frame-frame3  {
+	/*width: 679px; */
+	height: 1%; 
+}
+
+#MainCenterFullCol #content div.csc-frame-frame2, #MainCenterFullCol #content div.csc-frame-frame4 {
+	/* width: 685px;  */
+	height: 1%; 
+}
+
+#MainCenterCol #content div.csc-frame-frame1, #MainCenterCol #content div.csc-frame-frame3 {
+	/* width: 469px;  */
+	height: 1%; 
+	
+}
+
+#MainCenterCol #content div.csc-frame-frame2, #MainCenterCol #content div.csc-frame-frame4 {
+	/*width: 475px; */
+	height: 1%; 
+	
+}
+
+
+/*  FIX verschachteltes Floating  */
+div.downloadlist .downloaditem {
+	height: 1%;
+}
+
+#content div.downloadlist .image_preview {
+	margin-right: 0px;
+}
+
+.tx-fhbopersonal-pi2 .image {
+	margin-bottom: 0px;
+}
+
+
+#content p.news-single-imgcaption {		
+	margin-top: -2px;
+}

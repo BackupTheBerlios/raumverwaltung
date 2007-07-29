@@ -1,0 +1,19 @@
+
+#OuterBanner {
+    background: #009DD5 url(/typo3temp/GB/49c51effe2.png) no-repeat left top;
+}
+
+#OuterBanner #MetaNavTop {
+    background:  url(/typo3temp/GB/951673be92.gif) repeat-x left top;
+}
+
+#Logo {
+    background:  url(/typo3temp/GB/84f71f3dc6.gif) repeat-x left top;
+}
+
+#OuterBanner #TargetNav {
+    background: #CFEDF7;
+}
+#MetaNavTop #MetaBGDummy {	
+    background: #CFEDF7;
+}

@@ -1,0 +1,85 @@
+
+
+
+.tx-fhboforschung-pi3 .list-container {
+
+
+}
+
+
+#content .tx-fhboforschung-pi3 .list-container p, #content .tx-fhboforschung-pi4 .list-container p {
+	padding-bottom: 2px;
+}
+
+
+.tx-fhboforschung-pi3 .list-container .list-item, .tx-fhboforschung-pi5 .list-container .list-item {
+	padding-bottom: 7px;
+	margin-bottom: 7px;
+	background: url(../img/dot_solid_h.gif) bottom repeat-x;
+}
+
+
+#content .tx-fhboforschung-pi3 .list-container .list-item h3, #content .tx-fhboforschung-pi5 .list-container .list-item h3 {
+	/*font-size: 1.1em;*/
+	margin-top: 0px;
+	margin-bottom: 3px;	
+}
+
+.tx-fhboforschung-pi3 .pagebrowser p, .tx-fhboforschung-pi4 .pagebrowser p, .tx-fhboforschung-pi5 .pagebrowser p {
+	display: inline;
+}
+
+.tx-fhboforschung-pi3 .pagebrowser ul, .tx-fhboforschung-pi4 .pagebrowser ul, .tx-fhboforschung-pi5 .pagebrowser ul {
+	list-style: none;
+	display: inline;	
+}
+
+#content .tx-fhboforschung-pi3 .pagebrowser ul li, #content .tx-fhboforschung-pi4 .pagebrowser ul li, #content .tx-fhboforschung-pi5 .pagebrowser ul li{
+	display: inline;
+	background: url(../img/dot_black.gif) right repeat-y;
+	padding: 0 5px 0 0;
+	margin-left: 5px;
+}
+
+
+#content .tx-fhboforschung-pi3 .pagebrowser ul li.last, #content .tx-fhboforschung-pi4 .pagebrowser ul li.last, #content .tx-fhboforschung-pi5 .pagebrowser ul li.last {
+	background: none;
+}
+
+
+
+.tx-fhboforschung-pi4 .list-container .list-item {
+	padding-bottom: 7px;
+	margin-bottom: 7px;
+	background: url(../img/dot_solid_h.gif) bottom repeat-x;
+}
+
+.tx-fhboforschung-pi4 .list-container .list-item i.field {
+	margin-left: 6px;	
+}
+
+.tx-fhboforschung-pi4 .fhbo-contact {
+	margin-bottom: 30px;	
+}
+
+.tx-fhboforschung-pi3 .fhbo-contact .profile_link, .tx-fhboforschung-pi5 .fhbo-contact .profile_link  {
+	margin: 5px 0 5px 0;
+}
+
+.tx-fhboforschung-pi3 .fhbo-contact .profile_link a, .tx-fhboforschung-pi5 .fhbo-contact .profile_link a {
+	padding-left:15px;
+	background-image: url(../img/arrow-right.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+
+#content .tx-fhboforschung-pi3 .dottedline, #content .tx-fhboforschung-pi5 .dottedline {
+	padding-bottom: 5px;
+ 	margin-top: 0px;
+ 	margin-bottom: 8px;
+}
+
+
+.tx-fhboforschung-pi3 td div.personal_page {
+	margin-bottom: 3px;
+}

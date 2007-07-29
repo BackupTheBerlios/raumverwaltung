@@ -1,0 +1,116 @@
+
+
+
+.tx-strgbgallery-pi1 {
+	
+
+}
+
+
+.tx-strgbgallery-pi1 .listView .items .item {
+	float: left;
+	padding: 4px;
+}
+
+.tx-strgbgallery-pi1 .listView .items .item img {
+	border: 1px solid #C4C4C4;
+}
+
+
+
+.tx-strgbgallery-pi1 .detailView {
+	font-size: 1.1em;
+}
+
+.tx-strgbgallery-pi1 .detailView a {
+	font-weight: bold;
+}
+
+.tx-strgbgallery-pi1 .detailView .imagebrowser_up {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.tx-strgbgallery-pi1 .detailView .image {
+	text-align: center;
+}
+
+
+.tx-strgbgallery-pi1 .detailView .image img {
+	border: 1px solid #C4C4C4;
+}
+
+
+.tx-strgbgallery-pi1 .detailView .image_info {
+	text-align: center;
+	padding: 10px;
+}
+
+
+.tx-strgbgallery-pi1 .detailView .imagebrowser_prev {
+	width: 30%;
+	float:left;
+}
+
+.tx-strgbgallery-pi1 .detailView .imagebrowser_prev a {
+	padding-left: 15px;
+	padding-top: 2px;
+	background-image: url(../img/arrow-left.gif);
+	background-position: left;
+	background-repeat: no-repeat;
+}
+
+.tx-strgbgallery-pi1 .detailView .imagebrowser_next {
+	width: 30%;
+	float:right;
+	text-align: right;
+}
+
+.tx-strgbgallery-pi1 .detailView .imagebrowser_next a {
+	padding-right:15px;
+	padding-top: 2px;
+	background-image: url(../img/arrow-right.gif);
+	background-position: right;
+	background-repeat: no-repeat;
+}
+
+.tx-strgbgallery-pi1 .detailView .imagebrowser {
+	text-align: center;
+}
+
+
+.tx-strgbgallery-pi1 .pagebrowserinfo {
+	margin-top: 10px;
+	padding-left: 4px;
+}
+
+.tx-strgbgallery-pi1 .pagebrowser {
+	padding-left: 4px;
+	
+}
+
+
+.tx-strgbgallery-pi1 .pagebrowser p {
+	display: inline;
+}
+
+.tx-strgbgallery-pi1 .pagebrowser ul {
+	list-style: none;
+	display: inline;	
+}
+
+#content .tx-strgbgallery-pi1 .pagebrowser ul li {
+	display: inline;
+	background: url(../img/dot_black.gif) right repeat-y;
+	padding: 0 5px 0 0;
+	margin-left: 5px;
+}
+
+#content .tx-strgbgallery-pi1 .pagebrowser ul li.last{
+	background: none;
+}
+
+.tx-strgbgallery-pi1 .listView .lightboxSwitch {
+	margin-top: 10px;
+	padding-left: 4px;
+}

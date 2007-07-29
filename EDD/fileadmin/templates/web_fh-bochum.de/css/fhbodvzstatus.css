@@ -1,0 +1,71 @@
+#contentRight h2.dvz-header {	
+	color: #FFF;
+	padding: 3px 3px 3px 3px;
+	margin-top: 0px;
+	background: #009DD5;
+}
+
+#contentRight ul.dvz-msg {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+#contentRight ul.dvz-msg li {
+	margin-bottom: 7px;
+
+}
+
+#contentRight ul.dvz-msg li a {
+	color: #DB331A;
+}
+
+#contentRight div.dvz-bottomline {	
+	margin-top: 10px;	
+	border-top: 1px solid #009DD5;
+	height: 1px;
+}
+
+
+#contentRight .tx-fhbodvzstatus-pi2 .dvz-red {
+	padding-left:17px;
+	background-image: url(../img/status_red.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+
+
+#contentRight .tx-fhbodvzstatus-pi2 .dvz-green {
+	padding-left:17px;
+	background-image: url(../img/status_green.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+
+#contentRight .tx-fhbodvzstatus-pi2 .dvz-red span,#contentRight .tx-fhbodvzstatus-pi2 .dvz-green span {
+	position: absolute;
+	left: -1000px;
+	top: -1000px;
+	width: 0px;
+	height: 0px;
+	overflow: hidden;
+	display: block;
+	font-size: 0px;	
+}
+
+#content .tx-fhbodvzstatus-pi2 ul.dvz-msg {
+	list-style:none;
+	margin:0;
+	padding: 0;
+}
+
+#content .tx-fhbodvzstatus-pi2 ul.dvz-msg li {
+	padding-left:15px;
+	background-image: url(../img/arrow-right.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+
+#content .tx-fhbodvzstatus-pi2 ul.dvz-msg a {
+	
+}

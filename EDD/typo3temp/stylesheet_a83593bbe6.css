@@ -1,0 +1,465 @@
+/* default styles for extension "tx_fdfx2cols_pi1" */
+/*  Layout 1 */
+.c2l1-left{
+   border-right: 1px solid #FFEDA8;
+   padding-right: 5px;
+   width:50%;
+   white-space:normal;
+}
+.c2l1-middle{
+   padding-left: 5px;
+   width:50%;
+   white-space:normal;
+}
+/*  Layout 2 */
+.c2l2-left{
+   border-right: 1px solid #FFEDA8;
+   padding-right: 5px;
+   width:50%;
+   white-space:normal;
+}
+.c2l2-middle{
+   background-color:#FFEDA8;
+   padding-left: 5px;
+   width:50%;
+   white-space:normal;
+}
+/* Layout 2 */
+.c2l3-left{
+   border-right: 1px solid #FFEDA8;
+   padding-right: 5px;
+   width:70%;
+   white-space:normal;
+}
+.c2l3-middle{
+   background-color:#FFEDA8;
+   border: 1px solid blue;
+   padding-left: 5px;
+   width:30%;
+   white-space:normal;
+}
+/*
+	Styles 2 Column DIV Section
+*/
+div.tx-fdfx2cols-pi1{
+    position:relative;
+    left:0px;
+	margin-bottom:10px;
+}
+/* Layout 1 */
+div.c2l1d-left{
+   position:absolute;
+   left:0px;
+   padding: 0px;
+   width:380px;
+   white-space:normal;
+   border:1px solid red;
+}
+div.c2l1d-middle{
+   position:absolute;
+   left:390px;
+   padding: 0px;
+   width:380px;
+   border:1px solid blue;
+   white-space:normal;
+}
+/* Layout 2 */
+div.c2l2d-left{
+   position:absolute;
+   left:0px;
+   padding: 0px;
+   width:380px;
+   border:1px solid blue;
+   white-space:normal;
+}
+div.c2l2d-middle{
+   position:absolute;
+   left:390px;
+   padding: 0px;
+   width:380px;
+   white-space:normal;
+   border:1px solid blue;
+   background-color:#C0C0C0;
+}
+/* 
+	Layout 3 
+	
+	embedded
+*/
+div.c2l3d-left{
+   position:absolute;
+   left:0px;
+   padding: 0px;
+   width:770px;
+   white-space:normal;
+   border:1px solid red;
+}
+div.c2l3d-middle{
+   float:right;
+   margin:5px;
+   padding: 0px;
+   width: 200px;
+   height: 100px;
+   overflow:auto;
+   white-space:normal;
+   border:1px solid blue;
+   background-color:#C0C0C0;
+}
+/* default styles for extension "tx_newloginbox_pi3" */
+	.tx-newloginbox-pi3-listrow TD { background-color:#eeeeee; padding-left: 3px; padding-right: 3px; }
+	.tx-newloginbox-pi3-listrow TR.tx-newloginbox-pi3-listrow-header TD { background-color:#cccccc; }
+	.tx-newloginbox-pi3-listrow TR.tx-newloginbox-pi3-listrow-header TD P { font-weight:bold; }
+	.tx-newloginbox-pi3-listrow TR.tx-newloginbox-pi3-listrow-odd TD { background-color:#f6f6f6; }
+/* default styles for extension "tx_fhbodirectaccessmenu_pi1" */
+  /* example styles */
+  	
+  .tx-fhbodirectaccessmenu-pi1 {
+  	padding: 7px 0 6px 0;
+  } 
+  
+  
+  	 .tx-fhbodirectaccessmenu-pi1 form {
+  
+  		padding: 0px;	
+		margin: 0px;
+	}
+
+  .tx-fhbodirectaccessmenu-pi1 .selectbox {
+  		margin-top: 3px;
+  }
+  
+   .tx-fhbodirectaccessmenu-pi1 .selectbox:focus {
+  	color: #FFFFFF;
+	background-color: #009DD5;
+  }
+  
+  .tx-fhbodirectaccessmenu-pi1 .button {
+  		margin-left: 7px;	
+  		position: relative;
+		top: 3px;
+  }
+   
+   
+/* default styles for extension "tx_fhbodirectaccessmenu_pi2" */
+  /* example styles */
+  
+
+  .tx-fhbodirectaccessmenu-pi2 .selectbox {
+  	margin-top: 3px;
+  }
+  
+  .tx-fhbodirectaccessmenu-pi2 .selectbox:focus {
+  	color: #FFFFFF;
+	background-color: #009DD5;
+  }
+  
+  .tx-fhbodirectaccessmenu-pi2 .button {
+  	margin-left: 7px;	
+  	position: relative;
+		top: 3px;
+  }
+  
+
+   
+   
+/* default styles for extension "tx_fhbopinboard_pi1" */
+  /* example styles */
+  
+
+  .tx-fhbopinboard-pi1 #categories ul {
+  	list-style:none;
+  	padding-left:0;
+  	margin-left:0;
+  }
+  .tx-fhbopinboard-pi1 #categories ul li {
+  	display:inline;
+  	margin-right:15px;
+  }
+   .tx-fhbopinboard-pi1 label {
+   padding-left:0;
+   }
+  
+   .tx-fhbopinboard-pi1 .entries {
+   width: 100%;
+   }
+   
+  .tx-fhbopinboard-pi1 .date {
+  	width: 18%;
+  	padding: 20px 0 3px 0;
+  		
+  }
+  
+  .tx-fhbopinboard-pi1 .user {
+  	width: 82%;
+  	padding: 20px 0 3px 0;
+  	
+  }
+   
+  .tx-fhbopinboard-pi1 .nachricht {
+    padding: 3px 0 3px 2px;
+  	border-bottom: 1px dotted #CCCCCC;
+  	background: #E3F7FF;  
+  }
+   
+  .tx-fhbopinboard-pi1 .strong {
+  	color:#505050;
+  }
+  
+
+.tx-fhbopinboard-pi1 label {
+	float: left;
+	text-align: right;
+	width: 10em;
+	margin-right: .3em;
+	line-height: 1.6em;
+	font-size: 1.0em;
+	
+}
+
+
+
+.tx-fhbopinboard-pi1 p {
+	clear: both;
+	margin-bottom: 7px;
+}
+
+
+.tx-fhbopinboard-pi1 input, .tx-fhbopinboard-pi1 select, .tx-fhbopinboard-pi1 textarea {
+	font-size: 1.0em;
+	margin: 0 0 8px 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+}
+
+.tx-fhbopinboard-pi1  input[type=text] {
+	float: left;
+}
+
+
+
+.tx-fhbopinboard-pi1 label.radiogrouplabel {
+	cursor:	text;
+}
+
+.tx-fhbopinboard-pi1 div.formfield {
+	clear: both;
+}
+
+.tx-fhbopinboard-pi1 .submitbutton {
+	margin-left: 10em;
+	border: 1px solid #cccccc;
+	background: #eeeeee;	
+}
+   
+/* default styles for extension "tx_fhbonotepad_pi2" */
+ 
+  
+  .tx-fhbonotepad-pi2 ul li {
+  	list-style:none;
+    	margin-left:0;
+  	padding-bottom: 5px;
+  }
+  
+  #content .tx-fhbonotepad-pi2 ul li {
+  	padding-left:0;
+  	background: none;
+  }
+  
+  .tx-fhbonotepad-pi2 ul li a {
+    	padding-left:15px;
+	background-image: url(/fileadmin/templates/web_fh-bochum.de/img/arrow-right.gif);
+	background-position: left;
+	background-repeat: no-repeat;	
+	}
+	
+	.tx-fhbonotepad-pi2 ul li a.garbage {
+	background: none;	
+	padding-left:10px;
+	}
+	
+	.tx-fhbonotepad-pi2 ul li a.garbage img {
+		vertical-align: bottom;
+	}
+	
+	.tx-fhbonotepad-pi2 .clearAll {
+	text-align: right;
+	}
+	
+	.tx-fhbonotepad-pi2 .clearAll a {
+	padding-left:15px;
+	background-image: url(/typo3/gfx/garbage.gif);
+	background-position: left;
+	background-repeat: no-repeat;	
+	}
+	
+	.tx-fhbonotepad-pi2 form.clearallform {
+		text-align: right;
+	}
+	
+/* default styles for extension "tx_fhbostudieninfo_pi2" */
+ 
+  
+  .tx-fhbostudieninfo-pi2 table {
+  	border-top: 1px dotted #CCCCCC;
+  	border-bottom: 1px dotted #CCCCCC;
+  	margin-top: 10px;
+  	margin-bottom: 15px;
+  }
+  
+  .tx-fhbostudieninfo-pi2 table tr {
+  
+  }
+  
+  .tx-fhbostudieninfo-pi2 .garbage {
+  	margin-right: 3px;
+  }
+  
+  .tx-fhbostudieninfo-pi2 table tr td {
+  	padding: 5px 0 5px 2px;
+  }
+  
+  .tx-fhbostudieninfo-pi2 table tr.odd {
+  	background-color: #E3F7FF;
+  }
+  
+  .tx-fhbostudieninfo-pi2 table tr.even {
+  
+  }
+  
+  .tx-fhbostudieninfo-pi2 form {
+		text-align: right;
+	}
+	
+  .tx-fhbostudieninfo-pi2 form input {  	
+	border: 1px solid #cccccc;
+	background: #eeeeee;
+  }
+  
+  .tx-fhbostudieninfo-pi2 input.clearallbutton {
+  	margin-left: 20px;
+  }  
+  	
+/* default styles for extension "tx_cssstyledcontent" */
+	/* Captions */
+	DIV.csc-textpic-caption-c .csc-textpic-caption { text-align: center; }
+	DIV.csc-textpic-caption-r .csc-textpic-caption { text-align: right; }
+	DIV.csc-textpic-caption-l .csc-textpic-caption { text-align: left; }
+
+	/* Needed for noRows setting */
+	DIV.csc-textpic DIV.csc-textpic-imagecolumn { float: left; display: inline; }
+
+	/* Border just around the image */
+	DIV.csc-textpic-border DIV.csc-textpic-imagewrap .csc-textpic-image IMG {
+		border: 2px solid black;
+		padding: 0px 0px;
+	}
+
+	DIV.csc-textpic-imagewrap { padding: 0; }
+
+	DIV.csc-textpic IMG { border: none; }
+
+	/* DIV: This will place the images side by side */
+	DIV.csc-textpic DIV.csc-textpic-imagewrap DIV.csc-textpic-image { float: left; }
+
+	/* UL: This will place the images side by side */
+	DIV.csc-textpic DIV.csc-textpic-imagewrap UL { list-style: none; margin: 0; padding: 0; }
+	DIV.csc-textpic DIV.csc-textpic-imagewrap UL LI { float: left; margin: 0; padding: 0; }
+
+	/* DL: This will place the images side by side */
+	DIV.csc-textpic DIV.csc-textpic-imagewrap DL.csc-textpic-image { float: left; }
+	DIV.csc-textpic DIV.csc-textpic-imagewrap DL.csc-textpic-image DT { float: none; }
+	DIV.csc-textpic DIV.csc-textpic-imagewrap DL.csc-textpic-image DD { float: none; }
+	DIV.csc-textpic DIV.csc-textpic-imagewrap DL.csc-textpic-image DD IMG { border: none; } /* FE-Editing Icons */
+	DL.csc-textpic-image { margin: 0; }
+	DL.csc-textpic-image DT { margin: 0; display: inline; }
+	DL.csc-textpic-image DD { margin: 0; }
+
+	/* Clearer */
+	DIV.csc-textpic-clear { clear: both; }
+
+	/* Margins around images: */
+
+	/* Pictures on left, add margin on right */
+	DIV.csc-textpic-left DIV.csc-textpic-imagewrap .csc-textpic-image,
+	DIV.csc-textpic-intext-left-nowrap DIV.csc-textpic-imagewrap .csc-textpic-image,
+	DIV.csc-textpic-intext-left DIV.csc-textpic-imagewrap .csc-textpic-image {
+		display: inline; /* IE fix for double-margin bug */
+		margin-right: 10px;
+	}
+
+	/* Pictures on right, add margin on left */
+	DIV.csc-textpic-right DIV.csc-textpic-imagewrap .csc-textpic-image,
+	DIV.csc-textpic-intext-right-nowrap DIV.csc-textpic-imagewrap .csc-textpic-image,
+	DIV.csc-textpic-intext-right DIV.csc-textpic-imagewrap .csc-textpic-image {
+		display: inline; /* IE fix for double-margin bug */
+		margin-left: 10px;
+	}
+
+	/* Pictures centered, add margin on left */
+	DIV.csc-textpic-center DIV.csc-textpic-imagewrap .csc-textpic-image {
+		display: inline; /* IE fix for double-margin bug */
+		margin-left: 10px;
+	}
+	DIV.csc-textpic DIV.csc-textpic-imagewrap .csc-textpic-image .csc-textpic-caption { margin: 0; }
+	DIV.csc-textpic DIV.csc-textpic-imagewrap .csc-textpic-image IMG { margin: 0; }
+
+	/* Space below each image (also in-between rows) */
+	DIV.csc-textpic DIV.csc-textpic-imagewrap .csc-textpic-image { margin-bottom: 5px; }
+	DIV.csc-textpic-equalheight DIV.csc-textpic-imagerow { margin-bottom: 5px; display: block; }
+	DIV.csc-textpic DIV.csc-textpic-imagerow { clear: both; }
+
+	/* No margins around the whole image-block */
+	DIV.csc-textpic DIV.csc-textpic-imagewrap .csc-textpic-firstcol { margin-left: 0px !important; }
+	DIV.csc-textpic DIV.csc-textpic-imagewrap .csc-textpic-lastcol { margin-right: 0px !important; }
+
+	/* Add margin from image-block to text (in case of "Text w/ images") */
+	DIV.csc-textpic-intext-left DIV.csc-textpic-imagewrap,
+	DIV.csc-textpic-intext-left-nowrap DIV.csc-textpic-imagewrap {
+		margin-right: 10px !important;
+	}
+	DIV.csc-textpic-intext-right DIV.csc-textpic-imagewrap,
+	DIV.csc-textpic-intext-right-nowrap DIV.csc-textpic-imagewrap {
+		margin-left: 10px !important;
+	}
+
+	/* Positioning of images: */
+
+	/* Above */
+	DIV.csc-textpic-above DIV.csc-textpic-text { clear: both; }
+
+	/* Center (above or below) */
+	DIV.csc-textpic-center { text-align: center; /* IE-hack */ }
+	DIV.csc-textpic-center DIV.csc-textpic-imagewrap { margin: 0 auto; }
+	DIV.csc-textpic-center DIV.csc-textpic-imagewrap .csc-textpic-image { text-align: left; /* Remove IE-hack */ }
+	DIV.csc-textpic-center DIV.csc-textpic-text { text-align: left; /* Remove IE-hack */ }
+
+	/* Right (above or below) */
+	DIV.csc-textpic-right DIV.csc-textpic-imagewrap { float: right; }
+	DIV.csc-textpic-right DIV.csc-textpic-text { clear: right; }
+
+	/* Left (above or below) */
+	DIV.csc-textpic-left DIV.csc-textpic-imagewrap { float: left; }
+	DIV.csc-textpic-left DIV.csc-textpic-text { clear: left; }
+
+	/* Left (in text) */
+	DIV.csc-textpic-intext-left DIV.csc-textpic-imagewrap { float: left; }
+
+	/* Right (in text) */
+	DIV.csc-textpic-intext-right DIV.csc-textpic-imagewrap { float: right; }
+
+	/* Right (in text, no wrap around) */
+	DIV.csc-textpic-intext-right-nowrap DIV.csc-textpic-imagewrap { float: right; clear: both; }
+	/* Hide from IE5-mac. Only IE-win sees this. \*/
+	* html DIV.csc-textpic-intext-right-nowrap .csc-textpic-text { height: 1%; }
+	/* End hide from IE5/mac */
+
+	/* Left (in text, no wrap around) */
+	DIV.csc-textpic-intext-left-nowrap DIV.csc-textpic-imagewrap { float: left; clear: both; }
+	/* Hide from IE5-mac. Only IE-win sees this. \*/
+	* html DIV.csc-textpic-intext-left-nowrap .csc-textpic-text { height: 1%; }
+	/* End hide from IE5/mac */
+/* default styles for extension "tx_a21glossary" */
+   acronym, dfn, abbr, span.abbr { border-bottom: 1px dotted black; cursor: help; }
+   dl.glossary dt { font-weight: bold; margin: 0 0 3px 0; font-style: normal; }
+   dl.glossary dd { margin: 0 0 15px 20px; }
+   dl.glossary .description { margin: 0; padding: 0; }
+   dl.glossary .type { font-style: italic; padding: 0 3px 0 0; }

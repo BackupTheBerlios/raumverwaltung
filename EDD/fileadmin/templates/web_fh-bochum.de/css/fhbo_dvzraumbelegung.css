@@ -1,0 +1,58 @@
+
+.tx-fhbodvzraumbelegung-pi1 table {
+	border: 1px solid #ccc;
+	margin-bottom: 40px;
+	margin-left: 1px;
+	border-collapse:collapse;
+	border-spacing: 0px;
+}
+
+.tx-fhbodvzraumbelegung-pi1 table th,
+.tx-fhbodvzraumbelegung-pi1 table td {
+	border: 1px solid #ccc;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	padding: 2px;
+}
+
+
+.tx-fhbodvzraumbelegung-pi1 table th {
+	width: 75px;
+}
+
+.tx-fhbodvzraumbelegung-pi1 table th.normal {
+	font-weight: normal;
+}
+
+.tx-fhbodvzraumbelegung-pi1 table td.not_used {
+	color: #888;
+}
+
+.tx-fhbodvzraumbelegung-pi1 .colorFB1 {
+	background-color: #cd927c;
+}
+
+.tx-fhbodvzraumbelegung-pi1 .colorFB2 {
+	background-color: #cd7e8a;
+}
+
+.tx-fhbodvzraumbelegung-pi1 .colorFB3 {
+	background-color: #96d6b6;
+}
+
+.tx-fhbodvzraumbelegung-pi1 .colorFB4 {
+	background-color: #9ac6f1;
+}
+
+.tx-fhbodvzraumbelegung-pi1 .colorFB5 {
+	background-color: #ddaa78;
+}
+
+.tx-fhbodvzraumbelegung-pi1 .colorFB6 {
+	background-color: #d4d476;
+}
+.tx-fhbodvzraumbelegung-pi1 .color {
+	background-color: #dddddd;
+}
+							
