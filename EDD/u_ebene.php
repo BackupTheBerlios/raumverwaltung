@@ -91,13 +91,13 @@ if ((!isset ($_SESSION[SESSION_USER_NAME]) ||
 		<div class="HeaderCols" id="headerBottom">
 			<h2 class="unvisible" id="a_suche">Anmeldung</h2>
 			<div id="loginuser">
-			<!-- InstanceBeginEditable name="loginuser" -->loginuser<!-- InstanceEndEditable -->
+			<!-- InstanceBeginEditable name="loginuser" --><strong><?php echo $_SESSION[SESSION_USER_NAME] ?></strong><!-- InstanceEndEditable -->
 			</div>			
 			<h2 class="unvisible" id="a_lang">Sprachwahl</h2>
-			<div id="logoutlink"><!-- InstanceBeginEditable name="logoutbutton" --><div class="imglink"><a href="perform_action.php?logout" onclick="if (confirm('Wirklich ausloggen?')) { document.location = 'perform_action.php?logout';}return false;"><img src="fileadmin/templates/web_fh-bochum.de/img/logout.gif" width="20" height="15" border="0" alt="" /></a></div> <div class="textlink"><a href="perform_action.php?logout" onclick="if (confirm('Wirklich ausloggen?')) { document.location = 'perform_action.php?logout';}return false;">Logout</a></div><!-- InstanceEndEditable --></div>
+			<div id="logoutlink"><!-- InstanceBeginEditable name="logoutbutton" --><div class="imglink"><a href="index.php?logout" onclick="if (confirm('Wirklich ausloggen?')) { document.location = 'index.php?logout';}return false;"><img src="fileadmin/templates/web_fh-bochum.de/img/logout.gif" width="20" height="15" border="0" alt="" /></a></div> <div class="textlink"><a href="index.php?logout" onclick="if (confirm('Wirklich ausloggen?')) { document.location = 'index.php?logout';}return false;">Logout</a></div><!-- InstanceEndEditable --></div>
 			<hr class="dn" />
 			<div id="BreadCrumbOuter"><div id="BreadCrumb">
-				<div class="tx-fhbobreadcrumb-pi1-menu"><span class="unvisible">Sie sind hier:  </span><!-- InstanceBeginEditable name="siesindhier" --><strong>Home</strong><!-- InstanceEndEditable --></div>
+				<div class="tx-fhbobreadcrumb-pi1-menu"><span class="unvisible">Sie sind hier:  </span><!-- InstanceBeginEditable name="siesindhier" --><strong><a href="<?php echo (PHPFILE_LOGGED_IN); ?>" title="Raumverwaltung">Raumverwaltung</a> &#187; <a href="u_ebene.php" title="Ebene">Ebene</a> </strong><!-- InstanceEndEditable --></div>
 			</div></div>
 			<hr class="dn" />			
 		</div>		
